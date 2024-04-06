@@ -143,9 +143,6 @@ fizzBuzzish(30);
 fizzBuzzish(31);
 
 
-
-
-
 module.exports = {
   measureRain,
   happyBirthdayPet,
